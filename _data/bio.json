@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Christianne Young",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/clyyoung.png",
+    "email": "clyyoung@hawaii.edu",
+    "phone": "808-990-4548",
+    "website": "https://clyyoung.github.io",
+    "summary": "I am currently a student at the University of Hawaii at Manoa majoring in Computer Engineering. I will be graduating in Spring 2023. Following graduation I will be working in the space industry at Northrop Grumman.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "clyyoung", "url": "http://github.com/clyyoung" },
+      { "network": "linkedin", "username": "christianneyoung", "url": "http://linkedin.com/in/christianne-young-9838771b2/" },
+      { "network": "email", "username": "clyyoung", "url": "clyyoung@hawaii.edu" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Systems Engineering" },
+    { "name": "Space Exploration" }
   ],
   "skills": [
     {
