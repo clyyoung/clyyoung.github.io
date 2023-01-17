@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Motor Inventory App"
-date: 2015
+date: 2021-08-01
 published: true
 labels:
   - Java
   - mongoDB
   - Android Studio
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "As an intern at the Naval Information Warfare Center in Summer 2021, my team developed an Android app to provide an efficient method for taking motor inventory."
 ---
 
 <div class="text-center p-4">
