@@ -1,54 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "A Student's Software Engineering Roadmap"
+title: "A student's software engineering roadmap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
 labels:
   - Engineering
+  - Young professional
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## Pre-college history
+The decision every young adult faces is what to do with their lives. I was no exception to this dilemma. After considering numerous different majors such as mathematics, architecture, and chemistry, I luckily discovered the world of software engineering. 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+During my high school career, I found a love for math and science which ultimately led me to pursuing a future in engineering. Taking computer science classes and developing an interest in programming and the innovation of technology encouraged me to choose computer engineering as my major. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Entering the world of higher education
+Starting at UH Manoa, I became determined to make the most of my college career. Through programming projects and various internships, my love for software engineering grew. One of my internships at the Naval Information Warfare Center challenged me to develop a motor inventory app. With that experience, I found that the process of designing and executing a useful tool for others was extremely rewarding. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Throughout my time at UH Manoa, I also found a passion for the aerospace field. I joined the Vertically Integrated Project (VIP) Aerospace Technologies in the beginning of my sophomore year and have continued supporting the satellite project. The goal of the satellite project is to be the first satellite built in Hawaii to take a picture of the Hawaiian Islands from space. Within the VIP team, I was a lead for the On-Board Computer and Communications subsystems and eventually became the Project Manager. Continuing my love for space, I accepted a position as a Satellite Software Assistant for the Hawaii Space Flight Laboratory (HSFL). Through this job I was able to work on the software and avionics for HSFL’s Artemis CubeSat Kit whose mission is to develop an educational low-cost 1U CubeSat kit. This past summer I also interned for Northrop Grumman as an Electronics Engineer. I was able to gain experience in FPGA development as well as printed circuit board testing. Experiencing all of these different space-related projects only solidified my desire to pursue a career in the aerospace industry.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## Post-college and beyond
+Following graduation, I am looking forward to beginning my career as a Systems Engineer for Northrop Grumman. Through this job I hope to continue developing my problem solving, communication, leadership, and technical skills. The fortunate experiences that I have had in college were able to set me up for success in entering the workforce. I hope this job will be a stepping stone for a promising career in systems and software engineering.
