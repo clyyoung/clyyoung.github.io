@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/books.jpg" class="img-thumbnail" >
+  <img width="325px" src="../img/books.jpg" class="img-thumbnail" >
 </div>
 
 ## Pre-college history
