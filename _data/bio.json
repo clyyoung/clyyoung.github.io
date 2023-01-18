@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Christianne Young",
-    "label": "Student",
+    "label": "Engineering Student",
     "picture": "https://github.com/clyyoung.png",
     "email": "clyyoung@hawaii.edu",
     "phone": "808-990-4548",
     "website": "https://clyyoung.github.io",
-    "summary": "I am currently a student at the University of Hawaii at Manoa majoring in Computer Engineering. I will be graduating in Spring 2023. Following graduation I will be working in the space industry at Northrop Grumman.",
+    "summary": "I am currently a student at the University of Hawaii at Manoa majoring in Computer Engineering. My expected graduation is in Spring 2023 and following graduation I will be working in the space industry at Northrop Grumman.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "clyyoung", "url": "http://github.com/clyyoung" },
