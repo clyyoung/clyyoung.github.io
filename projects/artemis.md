@@ -11,7 +11,7 @@ labels:
 summary: "The Artemis CubeSat Kit created by the Hawaii Space Flight Laboratory aims to provide educational institutions with the ability to expose students to the space industry and the process of developing small satellites."
 ---
 
-The Artemis CubeSat Kit is a project developed by the Hawaii Space Flight Laboratory (HSFL). The goal of Artemis is to provide educational institutions with a low-cost cubesat kit that can be integrated into school curriculums. This project will be able to expose students to the aerospace industry through a more accessible kit that contains all subsystems of a fully functioning passive small satellite. The Artemis team is currently working on finalizing subsystem designs, obtaining components for fabrication, and completing software integration.
+The Artemis CubeSat Kit is a project developed by the Hawaii Space Flight Laboratory (HSFL). The goal of Artemis is to provide educational institutions with a low-cost CubeSat kit that can be integrated into school curriculums. This project will be able to expose students to the aerospace industry through a more accessible kit that contains all subsystems of a fully functioning passive small satellite. The Artemis team is currently working on finalizing subsystem designs, obtaining components for fabrication, and completing software integration.
 
 Within this project I am a software assistant to the full-time employees at HSFL. Through this role I help to develop code for the satellite’s agents and framework. I also document, test, and integrate the hardware and software of various sensors and components for multiple subsystems. Additionally, I help the avionics team to fabricate PCBs for delivery of the kits.
 
