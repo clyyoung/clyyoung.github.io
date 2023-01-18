@@ -19,7 +19,5 @@ I was offered this position on the Artemis team because of my work on the Ke Ao 
 
 <img class="img-fluid" src="../img/artemis-image.jpg">
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/artemis-image.jpg" class="img-thumbnail" >
 </div>
