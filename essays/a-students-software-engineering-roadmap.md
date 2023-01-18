@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why Software Engineering?"
+title: "A Student's Software Engineering Roadmap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
