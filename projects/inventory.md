@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/inventory.jpg
 title: "Motor Inventory App"
 date: 2021-08-01
 published: true
