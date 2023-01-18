@@ -19,4 +19,6 @@ Throughout this project I have had numerous roles ranging from on-board computer
 
 This project has been the most challenging yet rewarding endeavor I have worked on. I started out not having many skills and being confused with my tasks to eventually gaining the tools needed to do the jobs assigned to me. I was able to get a better understanding of how software gets integrated into bigger projects, refine my soldering and PCB assembly skills, and develop my leadership and communication skills.
 
-<img class="img-fluid" src="../img/ke-ao-image.JPG">
+<div class="text-center p-4">
+  <img width="500px" src="../img/ke-ao-image.JPG" class="img-thumbnail" >
+</div>
