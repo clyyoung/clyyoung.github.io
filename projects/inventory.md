@@ -9,31 +9,12 @@ labels:
   - Java
   - mongoDB
   - Android Studio
-summary: "As an intern at the Naval Information Warfare Center in Summer 2021, my team developed an Android app to provide an efficient method for taking motor inventory."
+summary: "As an intern at the Naval Information Warfare Center (NIWC) in Summer 2021, my team developed an Android app to provide an efficient method for taking motor inventory."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+One of the NIWC intern projects that my team worked on was to create a functional application that would improve the efficiency of taking motor inventory in the Navy. We were given complete control over the specifics of the app implementation and design. Overall, my team finished the research and programming of the motor inventory app in about a week and a half.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+My role within the project was to implement the optical character recognition (OCR) software and design the user interface (UI). To execute OCR, I used the text recognition packages from ML Kit for Firebase. The UI was designed on Canva and integrated using Android Studio. The other team members helped with general integration and incorporation of the database using MongoDB.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+All of my group members hadn’t used Android Studio or MongoDB before, so this was a learning experience for each of us. This was also my first time creating an app, so being able to produce a useful tool that my team was proud of was a very rewarding experience. In addition to the technical skills I gained, I also learned a lot about teamwork and collaboration. Since we were given control over all aspects of the app, numerous decisions and compromises had to be made.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
