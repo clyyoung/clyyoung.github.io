@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "clyyoung", "url": "http://github.com/clyyoung" },
       { "network": "linkedin", "username": "christianneyoung", "url": "http://linkedin.com/in/christianne-young-9838771b2/" },
-      { "network": "email", "username": "clyyoung", "url": "clyyoung@hawaii.edu" }
+      { "network": "email", "url": "clyyoung@hawaii.edu" }
     ]
   },
   "interests": [
