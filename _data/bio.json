@@ -22,74 +22,94 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Software Toolsets",
+      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "STK" ]
+    },
+    {
+      "name": "Hardware Toolsets",
+      "keywords": [ "FPGA development and testing", "PCB assembly", "Soldering" ]
+    },
+    {
+      "name": "Other",
+      "keywords": [ "Project management" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-15",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Basic Circuit Analysis I and II", "Introduction to Digital Design", "Object Oriented Programming", "Signals and Systems", "Physical Electronics", "Digital Systems & Comp Design", "Discrete Math for Engineers", "Microelectronic Circuits I", "Probability and Statistics", "Data Structures & Algorithms", "Linear Algebra and Machine Learning", "Engineering Electromagnetics I", "Electric Power Systems", "Operating Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "Satellite Software Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Help develop code for satellite's agents",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Deliver 1U Artemis CubeSat kits to strategic partners",
+        "Document, test, and integrate the hardware and software of various sensors and components for the Artemis CubeSat Kit"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa College of Engineering",
+      "position": "Engineering Student Ambassador",
+      "website": "https://www.eng.hawaii.edu/students/prospective/esa/",
+      "startDate": "2020-06-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conduct outreach on behalf of the University of Hawai’i at Manoa College of Engineering (CoE)",
+        "Participate in the planning and hosting of CoE events"
+      ]
+    },
+    {
+      "company": "Northrop Grumman",
+      "position": "Electronics Engineering Intern",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-15",
+      "summary": "Ground System Development intern",
+      "highlights": [
+        "Troubleshooted issues with I2C on FPGAs",
+        "Tested project’s flagship boards"
+      ]
+    },
+    {
+      "company": "Naval Information Warfare Center",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-15",
+      "summary": "",
+      "highlights": [
+        "Developed an Android app to provide an efficient method for taking motor inventory",
+        "Researched an advanced security system utilizing geo-mapping software and various sensors",
+        "Presented projects to NIWC professionals and fellow interns"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Aerospace Technologies Ke Ao Satellite Project: Team Laniakea",
+      "website": "https://www.teamlaniakea.com/",
+      "position": "Project Manager, On-Board Computer (OBC) Subsystem co-lead, and Communications Subsystem member",
+      "startDate": "2020-08-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
