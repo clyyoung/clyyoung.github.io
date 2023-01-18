@@ -10,10 +10,6 @@ labels:
   - Young professional
 ---
 
-<div class="text-center p-4">
-  <img width="325px" src="../img/books.jpg" class="img-thumbnail" >
-</div>
-
 ## Pre-college history
 The decision every young adult faces is what to do with their lives. I was no exception to this dilemma. After considering numerous different majors such as mathematics, architecture, and chemistry, I luckily discovered the world of software engineering. 
 
@@ -26,3 +22,7 @@ Throughout my time at UH Manoa, I also found a passion for the aerospace field. 
 
 ## Post-college and beyond
 Following graduation, I am looking forward to beginning my career as a Systems Engineer for Northrop Grumman. Through this job I hope to continue developing my problem solving, communication, leadership, and technical skills. The fortunate experiences that I have had in college were able to set me up for success in entering the workforce. I hope this job will be a stepping stone for a promising career in systems and software engineering.
+
+<div class="text-center p-4">
+  <img width="325px" src="../img/books.jpg" class="img-thumbnail" >
+</div>
