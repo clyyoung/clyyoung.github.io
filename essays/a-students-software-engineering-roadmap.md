@@ -10,6 +10,10 @@ labels:
   - Young professional
 ---
 
+<div class="text-center p-4">
+  <img width="500px" src="../img/books.jpg" class="img-thumbnail" >
+</div>
+
 ## Pre-college history
 The decision every young adult faces is what to do with their lives. I was no exception to this dilemma. After considering numerous different majors such as mathematics, architecture, and chemistry, I luckily discovered the world of software engineering. 
 
