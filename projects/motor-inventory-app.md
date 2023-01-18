@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/inventory.jpg
+image: img/cars.jpg
 title: "Motor Inventory App"
 date: 2021-08-01
 published: true
@@ -18,4 +18,6 @@ My role within the project was to implement the optical character recognition (O
 
 All of my group members hadn’t used Android Studio or MongoDB before, so this was a learning experience for each of us. This was also my first time creating an app, so being able to produce a useful tool that my team was proud of was a very rewarding experience. In addition to the technical skills I gained, I also learned a lot about teamwork and collaboration. Since we were given control over all aspects of the app, numerous decisions and compromises had to be made.
 
-<img class="img-fluid" src="../img/inventory.jpg">
+<div class="text-center p-4">
+  <img width="500px" src="../img/inventory.jpg" class="img-thumbnail" >
+</div>
