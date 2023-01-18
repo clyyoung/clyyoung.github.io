@@ -18,3 +18,8 @@ Within this project I am a software assistant to the full-time employees at HSFL
 I was offered this position on the Artemis team because of my work on the Ke Ao satellite and it has helped to refine and grow the skills I developed by being a part of Team Laniakea. This project has helped me learn more about software development and how to efficiently design frameworks. I’ve also been able to grow my soldering and programming skills. 
 
 <img class="img-fluid" src="../img/artemis-image.jpg">
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
