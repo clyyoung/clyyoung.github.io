@@ -108,23 +108,24 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Ensure team’s milestones and CubeSat specifications are met",
+        "Write software for satellite’s computer and fabricate hardware for OBC",
+        "Utilize global network called SatNOGS to connect ground station to satellite"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chancellor's Scholar",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship of $10,000 a year (for 4 years) awarded to outstanding incoming freshmen."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students that earn a semester grade point average of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
