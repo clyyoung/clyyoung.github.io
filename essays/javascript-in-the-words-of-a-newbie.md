@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="325px" src="../img/javascript-code.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/javascript-code.jpg" class="img-thumbnail" >
 </div>
 
 ## A rookie’s opinion
