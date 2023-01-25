@@ -7,6 +7,7 @@ date: 2023-01-18
 published: true
 labels:
   - JavaScript
+  - Software Engineering
 ---
 
 <div class="text-center p-4">
