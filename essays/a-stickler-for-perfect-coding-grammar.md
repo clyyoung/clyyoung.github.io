@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/coding-standards.png" class="img-thumbnail" >
+  <img width="400px" src="../img/coding-standards.png" class="img-thumbnail" >
 </div>
 
 ## First impressions
