@@ -23,7 +23,7 @@ The Bootstrap 5 framework significantly simplified creating certain elements for
 ## A simple website comparison
 Here is a comparison of an extremely simple website that I created from the practice WODs over the past couple weeks. On the left is the implementation using pure HTML and CSS and on the right is the execution using Bootstrap 5.
 <div class="text-center p-4">
-  <img width="500px" src="../img/browserhistory-html.jpg" class="img-thumbnail" >
-  <img width="500px" src="../img/browserhistory-bootstrap.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/browserhistory-html.png" class="img-thumbnail" >
+  <img width="500px" src="../img/browserhistory-bootstrap.png" class="img-thumbnail" >
 </div>
 As you can see, the website created with Bootstrap is formatted a lot better. When I was creating columns for the website content in raw HTML, I ran into the issue of the webpage looking differently whenever the window was resized. This problem was solved in the Bootstrap implementation. Additionally, the navigation bar with Bootstrap was significantly improved. This is just a simple example of how Bootstrap 5 improved websites that I worked on, but this elevation can be seen in a lot of other websites that utilize UI frameworks.
