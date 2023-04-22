@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/design-patterns.png" class="img-thumbnail" >
+  <img width="450px" src="../img/design-patterns.png" class="img-thumbnail" >
 </div>
 
 As a university student who has spent the last four years dedicating my efforts towards learning how to code, I would still consider myself a beginner. Although I have garnered numerous skills and techniques over the years, I still recognize that there is a lot I haven’t experienced or mastered yet. One of the most valuable abilities that I’ve been taught in college has been design patterns and how to recognize instances where they can be used.
