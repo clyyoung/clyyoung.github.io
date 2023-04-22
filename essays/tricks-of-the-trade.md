@@ -14,7 +14,8 @@ labels:
   <img width="450px" src="../img/design-patterns.png" class="img-thumbnail" >
 </div>
 
-As a university student who has spent the last four years dedicating my efforts towards learning how to code, I would still consider myself a beginner. Although I have garnered numerous skills and techniques over the years, I still recognize that there is a lot I haven’t experienced or mastered yet. One of the most valuable abilities that I’ve been taught in college has been design patterns and how to recognize instances where they can be used.
+## Still a beginner
+As a university student who has spent the last four years dedicating my efforts towards learning how to code, I would still consider myself a beginner. Although I have garnered numerous skills and techniques over the years, I recognize that there is a lot I haven’t experienced or mastered yet. One of the most valuable abilities that I’ve been taught in college has been design patterns and how to recognize instances where they can be used.
 
 ## Learning the ropes
 Design patterns can be thought of as tricks of the programming trade. Initially identified by those who have mastered the craft, design patterns offer general solutions and methods to solve common coding problems. The template solutions created by recognizing these patterns give beginner programmers the ability to effectively curate solutions. While it may take someone decades to completely master software engineering, design patterns offer newbies guidance towards solutions for typical coding problems. 
