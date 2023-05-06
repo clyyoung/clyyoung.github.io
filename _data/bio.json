@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python", "HTML", "Meteor", "React", "Bootstrap 5" ]
     },
     {
       "name": "Software Toolsets",
-      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "STK" ]
+      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "STK", "TestCafe", "IntelliJ IDEA", "VS Code" ]
     },
     {
       "name": "Hardware Toolsets",
