@@ -4,7 +4,7 @@ type: essay
 title: "The science of a smart question"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-24
-published: true
+published: false
 labels:
   - StackOverflow
   - Smart Questions
