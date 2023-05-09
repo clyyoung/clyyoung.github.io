@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Christianne Young",
+    "label": "Engineering Student",
+    "picture": "https://github.com/clyyoung.png",
+    "email": "clyyoung@hawaii.edu",
+    "phone": "808-990-4548",
+    "website": "https://clyyoung.github.io",
+    "summary": "I am currently a student at the University of Hawaii at Manoa majoring in Computer Engineering. My expected graduation is in Spring 2023 and following graduation I will be working in the space industry at Northrop Grumman.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "clyyoung", "url": "http://github.com/clyyoung" },
+      { "network": "linkedin", "username": "christianneyoung", "url": "http://linkedin.com/in/christianne-young-9838771b2/" },
+      { "network": "email", "url": "clyyoung@hawaii.edu" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Systems Engineering" },
+    { "name": "Space Exploration" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python", "HTML", "Meteor", "React", "Bootstrap 5" ]
+    },
+    {
+      "name": "Software Toolsets",
+      "keywords": [ "Linux", "Ubuntu", "Git/GitHub", "STK", "TestCafe", "IntelliJ IDEA", "VS Code" ]
+    },
+    {
+      "name": "Hardware Toolsets",
+      "keywords": [ "FPGA development and testing", "PCB assembly", "Soldering" ]
+    },
+    {
+      "name": "Other",
+      "keywords": [ "Project management" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-15",
+      "endDate": "Present",
+      "courses": [ "Basic Circuit Analysis I and II", "Introduction to Digital Design", "Object Oriented Programming", "Signals and Systems", "Physical Electronics", "Digital Systems & Comp Design", "Discrete Math for Engineers", "Microelectronic Circuits I", "Probability and Statistics", "Data Structures & Algorithms", "Linear Algebra and Machine Learning", "Engineering Electromagnetics I", "Electric Power Systems", "Operating Systems", "Software Engineering I", "Computational Media Systems", "Renewable Energy", "Ethics in Electrical Engineering"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Space Flight Laboratory",
+      "position": "Satellite Software Assistant",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Help develop code for satellite's agents",
+      "highlights": [
+        "Deliver 1U Artemis CubeSat kits to strategic partners",
+        "Document, test, and integrate the hardware and software of various sensors and components for the Artemis CubeSat Kit"
+      ]
+    },
+    {
+      "company": "UH Manoa College of Engineering",
+      "position": "Engineering Student Ambassador",
+      "website": "https://www.eng.hawaii.edu/students/prospective/esa/",
+      "startDate": "2020-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Conduct outreach on behalf of the University of Hawai’i at Manoa College of Engineering (CoE)",
+        "Participate in the planning and hosting of CoE events"
+      ]
+    },
+    {
+      "company": "Northrop Grumman",
+      "position": "Electronics Engineering Intern",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-15",
+      "summary": "Ground System Development intern",
+      "highlights": [
+        "Troubleshooted issues with I2C on FPGAs",
+        "Tested project’s flagship boards"
+      ]
+    },
+    {
+      "company": "Naval Information Warfare Center",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-15",
+      "summary": "",
+      "highlights": [
+        "Developed an Android app to provide an efficient method for taking motor inventory",
+        "Researched an advanced security system utilizing geo-mapping software and various sensors",
+        "Presented projects to NIWC professionals and fellow interns"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Aerospace Technologies Ke Ao Satellite Project: Team Laniakea",
+      "website": "https://www.teamlaniakea.com/",
+      "position": "Project Manager, On-Board Computer (OBC) Subsystem co-lead, and Communications Subsystem member",
+      "startDate": "2020-08-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Ensure team’s milestones and CubeSat specifications are met",
+        "Write software for satellite’s computer and fabricate hardware for OBC",
+        "Utilize global network called SatNOGS to connect ground station to satellite"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Chancellor's Scholar",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship of $10,000 a year (for 4 years) awarded to outstanding incoming freshmen."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students that earn a semester grade point average of 3.5 or higher based on 12 credits or more."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
