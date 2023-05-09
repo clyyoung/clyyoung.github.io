@@ -44,7 +44,7 @@
       "studyType": "B.S.",
       "startDate": "2019-08-15",
       "endDate": "Present",
-      "courses": [ "Basic Circuit Analysis I and II", "Introduction to Digital Design", "Object Oriented Programming", "Signals and Systems", "Physical Electronics", "Digital Systems & Comp Design", "Discrete Math for Engineers", "Microelectronic Circuits I", "Probability and Statistics", "Data Structures & Algorithms", "Linear Algebra and Machine Learning", "Engineering Electromagnetics I", "Electric Power Systems", "Operating Systems", "Software Enginerring I", "Computational Media Systems", "Renewable Energy", "Ethics in Electrical Engineering"
+      "courses": [ "Basic Circuit Analysis I and II", "Introduction to Digital Design", "Object Oriented Programming", "Signals and Systems", "Physical Electronics", "Digital Systems & Comp Design", "Discrete Math for Engineers", "Microelectronic Circuits I", "Probability and Statistics", "Data Structures & Algorithms", "Linear Algebra and Machine Learning", "Engineering Electromagnetics I", "Electric Power Systems", "Operating Systems", "Software Engineering I", "Computational Media Systems", "Renewable Energy", "Ethics in Electrical Engineering"
       ]
     }
   ],
